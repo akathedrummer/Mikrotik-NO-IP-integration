@@ -2,11 +2,13 @@
 
 :log info "Updating DDNS. . ."
 
-# Configurações específicas pra cada roteador.
+# Specific settings for no-ip login
 
 :local NOIPUser "user"
 :local NOIPPass "password"
 :local NOIPDomain "hostname"
+
+# Start script
 
 :log info "Verifying public IPv4. . ."
 :log info "First pass (ipify API):"
@@ -23,4 +25,5 @@
 
 :log info "Done."
 
-# 2023, Allumny. Copia não comédia.
+
+# 2023, Allumny. Copying is not comedy.
