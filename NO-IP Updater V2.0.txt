@@ -1,4 +1,4 @@
-# ATUALIZADOR DO NO-IP V2.0
+# NO-IP UPDATE V2.0
 
 :log info "Updating DDNS. . ."
 
@@ -27,3 +27,4 @@
 
 
 # 2023, Allumny. Copying is not comedy.
+
